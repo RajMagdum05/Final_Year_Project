@@ -86,4 +86,4 @@ A Gemini API key is optional. Without one, extraction tests use recorded synthet
 
 ## Credits
 
-Built by Raj Magdum.
+Built by Raj Magdum and Team.
